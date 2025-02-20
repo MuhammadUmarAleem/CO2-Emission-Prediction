@@ -61,11 +61,6 @@ pip install -r requirements.txt
 - The Random Forest model yielded the highest accuracy among these models and was selected for deployment.
 <img height="170" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/CO2_Model.png" alt="ModelBuilding">
 
-# Deployment:
-
-- The project was deployed using Streamlit, allowing users to interact with the model and make predictions on CO2 emissions based on car engine features.
-- The deployment version of the project can be accessed through a provided link :[Project](https://rajveersinghcse-co2emissionsprediction.streamlit.app/)
-
 # Running the Project:
 
 - To run the project locally, one can install the required libraries using the provided command in the command prompt. Use the below Streamlit command to launch the application.
